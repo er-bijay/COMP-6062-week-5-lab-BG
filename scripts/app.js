@@ -45,7 +45,7 @@ let multiply = a * b;
 
 // Example: let power; use ** as the operator
 // Raise 'a' to the power of 'b'.
-let power = a ^ b;
+let power = a ** b;
 
 // Example: let division;
 // Divide 'a' by 'b'.
